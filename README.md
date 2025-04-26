@@ -13,8 +13,3 @@ A comprehensive desktop application developed in **VB.Net** and **MySQL** for ef
 - **Backend:** MySQL
 - **IDE:** Visual Studio
 - **Database Management Tool:** phpMyAdmin (optional)
-
-## Setup Instructions
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourUsername/Bakery-Management-System.git
